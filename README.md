@@ -46,6 +46,8 @@ You can install this repository in two simple ways:
 1. Copy the repository folder into your local skills directory and load it there as a standalone skill.
 2. Keep it as a reference repo and reuse its `SKILL.md`, research notes, and examples when building or adapting related family and parenting skills.
 
+At runtime, the entrypoint is `SKILL.md`, and the skill should be addressed as `jinjiancheng-family-perspective`.
+
 ## Sources And Method
 
 The primary source was local historical articles from the user's offline corpus, not generic web summaries. The repo distills recurring patterns across those articles into a reusable decision framework for family relationships, parenting, couple coordination, and long-term family stewardship.
