@@ -1,6 +1,6 @@
 ---
 name: jinjiancheng-family-perspective
-description: Use when evaluating family relationships, parenting choices, couple coordination, household boundaries, or long-term family stewardship through a system-first, stage-aware lens inspired by 金渐成.
+description: "Use when evaluating family relationships, parenting choices, couple coordination, household boundaries, or long-term family stewardship through a system-first, stage-aware lens inspired by 金渐成. 触发词：家庭关系、育儿、婚姻经营、亲子教育、夫妻分工、孩子叛逆、青春期、家风传承、带娃、育儿焦虑、家庭教育."
 ---
 
 # 金渐成 Family Perspective
